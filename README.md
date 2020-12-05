@@ -3,19 +3,19 @@
 ## build
 
 ```
-sam build
+make build
 ```
 
 ## local test
 
 ```
-sam local start-api
+make start
 ```
 
 ## deploy
 
 ```
-sam deploy
+make deploy
 ```
 
 
